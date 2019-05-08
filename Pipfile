@@ -1,0 +1,9 @@
+[scripts]
+main = "python3 main.py"
+
+[packages]
+pandas = "*"
+matplotlib = "*"
+
+[dev-packages]
+pylint = "*"
